@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on Eddie</title>
+    <link>https://Eddieyy.github.io/tags/github/</link>
+    <description>Recent content in github on Eddie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Wed, 22 Apr 2020 12:32:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://Eddieyy.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>git and github</title>
+      <link>https://Eddieyy.github.io/posts/2020/04/git-and-github/</link>
+      <pubDate>Wed, 22 Apr 2020 12:32:46 +0800</pubDate>
+      
+      <guid>https://Eddieyy.github.io/posts/2020/04/git-and-github/</guid>
+      <description>Git 教學 安裝與設定 add 和 commit </description>
+    </item>
+    
+    <item>
+      <title>Git1</title>
+      <link>https://Eddieyy.github.io/posts/2020/04/git1/</link>
+      <pubDate>Wed, 22 Apr 2020 00:51:38 +0800</pubDate>
+      
+      <guid>https://Eddieyy.github.io/posts/2020/04/git1/</guid>
+      <description>Git 教學 安裝與設定 add 和 commit </description>
+    </item>
+    
+  </channel>
+</rss>
