@@ -1,6 +1,6 @@
 ---
 title: "git and github"
-date: 2020-04-22T12:32:46+08:00
+date: 2020-04-22T00:51:38+08:00
 draft: false
 comments: true
 author: Eddie
